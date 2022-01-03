@@ -7,7 +7,7 @@
 
 ### Project steps / Passos do Projeto
 
-Basically use some tag's to write a html archive.
+Basically it was used some tag's to write a html archive.
 </br> 
 Basicamente foram usadas algumas tags para escrever um arquivo html.
 
